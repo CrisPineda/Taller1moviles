@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Taller</string>
+
+    <string name="btn_login">Send</string>
+
+    <string name="name_user">User</string>
+
+    <string name="password_user">Password</string>
+
+    <string name="btn_calculate">Calcular</string>
+
+</resources>
